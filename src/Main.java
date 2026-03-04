@@ -20,5 +20,6 @@ public class Main {
         aFireUponTheDeep.setPublicationYer(2021);
         System.out.println(aFireUponTheDeep.getTitle() + " " + aFireUponTheDeep.getAuthor().getFirstName() + " "
                 + aFireUponTheDeep.getAuthor().getLastName() + " " + aFireUponTheDeep.getPublicationYer());
+
     }
 }
